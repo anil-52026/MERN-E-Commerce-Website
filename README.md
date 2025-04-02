@@ -17,12 +17,30 @@ This is a fully functional E-commerce platform built using the MERN stack (Mongo
 - **State Management:** Redux
 
 ## Preview
-#### Store
+#### Sign In
 <p align="left">
-  <img width="780" src="images/Sign In.png">
+  <img width="900" src="Images/Sign In.png">
 </p>
 
+#### All Products
+<p align="left">
+  <img width="900" src="Images/All Products.png">
+</p>
 
+#### Add to Cart
+<p align="left">
+  <img width="900" src="Images/Add to Cart.png">
+</p>
+
+#### checkout
+<p align="left">
+  <img width="900" src="Images/CheckOut.png">
+</p>
+
+#### Address
+<p align="left">
+  <img width="900" src="Images/Address.png">
+</p>
 
 ## Installation
 
